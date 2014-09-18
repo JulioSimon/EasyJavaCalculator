@@ -20,7 +20,7 @@ public class Aplicacion {
 		panel.controlador(ctrl);
 		
 		//Creamos el Frame principal de la aplicacion
-		JFrame ventana = new JFrame("Calculadora Simple V1.0 - JJSG");
+		JFrame ventana = new JFrame("EasyJavaCalculator V1.0 - JJSG");
 		ventana.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		ventana.setContentPane((JPanel)panel);
 		ventana.pack();
