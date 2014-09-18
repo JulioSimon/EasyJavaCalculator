@@ -1,7 +1,5 @@
-Description
+EasyJavaCalculator V1.0
 ===============
-
-+ Version 1.0
 
 An EasyJavaCalculator with addition, subtraction and multiplication operations.
 It will show you the current operation and the result.
